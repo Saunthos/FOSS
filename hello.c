@@ -3,5 +3,5 @@ void main()
 {
 int a,b;
 scanf("%d %d",&a,&b);
-printf("%d",a+b);
+printf("Sum of two nos%d",a+b);
 }
